@@ -1,0 +1,15 @@
+{
+    "name": "cliente/testes",
+    "autoload": {
+        "psr-4": {
+            "Cliente\\Testes\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Joao",
+            "email": "jgf.zamarian@hotmail.com"
+        }
+    ],
+    "require": {}
+}
